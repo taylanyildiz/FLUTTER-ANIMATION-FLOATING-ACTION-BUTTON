@@ -1,6 +1,6 @@
 {
-    "name": "floatin_action_button_animation",
-    "short_name": "floatin_action_button_animation",
+    "name": "flutter_animation_floating_button",
+    "short_name": "flutter_animation_floating_button",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-package com.example.floatin_action_button_animation
+package com.example.flutter_animation_floating_button
 
 import io.flutter.embedding.android.FlutterActivity
 
